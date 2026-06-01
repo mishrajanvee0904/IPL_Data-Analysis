@@ -7,7 +7,7 @@ using Python (Pandas, Matplotlib, Seaborn)
 
 ## Interactive Notebook Viewer
 ## If the Jupyter Notebook isn't rendering properly on GitHub, you can view the complete project with all interactive charts and outputs here:
-https://nbviewer.org/github/mishrajanvee0904/IPL_Data-Analysis/blob/main/IPL_Analysis.ipynb
+https://colab.research.google.com/github/mishrajanvee0904/IPL_Data-Analysis/blob/main/IPL_Analysis.ipynb
 
 ## Tools Used
 - Python
